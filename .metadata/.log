@@ -349,3 +349,36 @@ java.lang.NullPointerException: Cannot invoke "org.eclipse.e4.core.contexts.IEcl
 
 !ENTRY com.st.stm32cube.ide.mcu.debug.swv 1 1 2023-10-09 14:01:52.823
 !MESSAGE SWV configuration; base: 36000000; minDiv: 18; maxDiv: 65535; maxSWO: 2000000; limit: 2000000 => SWO: 1894736; CPU: 25000000; div: 13
+!SESSION 2023-10-09 17:07:09.286 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-10-09 17:07:33.417
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-10-09 17:07:33.429
+!MESSAGE Log4j2 initialized with config file C:\Users\98919\Desktop\rtos-training\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-10-09 17:07:45.143
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-10-09 18:22:35.920
+!MESSAGE Indexed '001Tasks' (37 sources, 115 headers) in 3.43 sec: 9,483 declarations; 50,327 references; 3 unresolved inclusions; 2 syntax errors; 1,076 unresolved names (1.8%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-10-09 18:23:32.646
+!MESSAGE Indexed '001Tasks' (36 sources, 114 headers) in 2.19 sec: 9,448 declarations; 49,527 references; 2 unresolved inclusions; 2 syntax errors; 1,073 unresolved names (1.8%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-10-09 18:24:50.574
+!MESSAGE Indexed '001Tasks' (36 sources, 114 headers) in 1.98 sec: 9,448 declarations; 49,527 references; 2 unresolved inclusions; 2 syntax errors; 1,073 unresolved names (1.8%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-10-09 18:30:44.651
+!MESSAGE Indexed '001Tasks' (36 sources, 116 headers) in 2.38 sec: 9,473 declarations; 51,522 references; 0 unresolved inclusions; 1 syntax errors; 8 unresolved names (0.013%)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug.swv 1 1 2023-10-09 18:42:34.680
+!MESSAGE SWV configuration; base: 36000000; minDiv: 18; maxDiv: 65535; maxSWO: 2000000; limit: 2000000 => SWO: 1894736; CPU: 25000000; div: 13
+
+!ENTRY com.st.stm32cube.ide.mcu.debug.swv 1 1 2023-10-09 18:43:37.514
+!MESSAGE SWV configuration; base: 36000000; minDiv: 18; maxDiv: 65535; maxSWO: 2000000; limit: 2000000 => SWO: 1894736; CPU: 25000000; div: 13
